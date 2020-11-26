@@ -36,8 +36,6 @@ Passion driven developer who loves to code. Full systems development life cycle 
   <img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <br/> <br/>
-<br/> <br/>
-
 ## Languages and Tools:
 <code><img height="20" src="https://developer.apple.com/swift/images/swift-og.png"></code>
 <code><img height="20" src="https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png"></code>
