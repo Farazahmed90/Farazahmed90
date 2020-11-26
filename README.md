@@ -47,8 +47,8 @@ Passion driven developer who loves to code. Full systems development life cycle 
 <code><img height="20" src="https://www.flaticon.com/svg/static/icons/svg/2165/2165004.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/parse-1.svg"></code>
-<code><img height="https://image.flaticon.com/icons/png/512/74/74897.png"></code>
-<code><img height="https://www.pikpng.com/pngl/m/542-5422836_c-programming-twitter-icon-png-black-circle-clipart.png"></code>
+<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrwBlwuaB0lj-2wiRBR8GeZmQPjZoeQuha3Q&usqp=CAU"></code>
+<code><img height="20" src="https://www.pikpng.com/pngl/m/542-5422836_c-programming-twitter-icon-png-black-circle-clipart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
