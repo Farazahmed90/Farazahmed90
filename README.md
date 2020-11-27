@@ -35,6 +35,9 @@ Passion driven developer who loves to code. Full systems development life cycle 
 <a target="_blank" href="https://twitter.com/Faraz_Ahmed90">
   <img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+<a target="_blank" href="https://stackoverflow.com/users/12085999/faraz-ahmed?tab=profile">
+  <img align="left" alt="Stackoverflow" width="22px" src="https://aiconica.net/previews/stackoverflow-icon-997.png" />
+</a>
 <br/> <br/>
 
 ## Languages and Tools:
