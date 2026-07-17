@@ -1,25 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Farazahmed90/Farazahmed90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<div align="center">
-  <img align="center" src="https://images-na.ssl-images-amazon.com/images/I/4159Rqv2RxL._SX331_BO1,204,203,200_.jpg">
-</div>
-<br/> <br/>
-
 I design and ship high-performance iOS applications used by millions of users. With 6+ years of professional experience, I specialize in building scalable mobile systems, optimizing runtime performance, and delivering resilient user experiences in production environments.
 
 My engineering work has contributed to consumer platforms exceeding 10M+ installs, where I focused on measurable improvements across speed, stability, authentication workflows, and engagement. I operate comfortably across the full development lifecycle from architecture decisions to release pipelines partnering with product, backend, and security teams to ship reliable mobile infrastructure at scale.
@@ -34,9 +14,7 @@ Core Expertise:
 
 Currently based in Berlin, contributing to identity and wallet platforms. I am particularly motivated by technically challenging environments where engineering quality and product scale intersect. Always open to connecting with recruiters, engineers, tech leaders, and teams building impactful mobile experiences.
 
-<br/> <br/>
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=farazahmed90&show_icons=true&theme=dracula)
+<br/>
 
 <a target="_blank" href="https://www.linkedin.com/in/farazahmed~/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -66,7 +44,4 @@ Currently based in Berlin, contributing to identity and wallet platforms. I am p
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farazahmed90&layout=compact)
- 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> 
