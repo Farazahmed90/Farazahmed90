@@ -20,8 +20,20 @@ Here are some ideas to get you started:
 </div>
 <br/> <br/>
 
-iOS/Swift Developer having experience for writing highly efficient, future-proof, clean, maintainable and quality source code using Xcode, iPhone SDK and Cocoa Touch. My passion is to create innovative applications with the user in mind, creating applications with a usable and intuitive user interface experience.
-Passion driven developer who loves to code. Full systems development life cycle experience on various assignments, includes requirement analysis, design, code building, testing, maintenance, and support. Excellent analytical and problem-solving skills, positive and proactive attitude, team player and also able to work on my own. Moreover, proficient in a range of languages including C++, C#, Java, python and flexible in learning new horizons. 
+I design and ship high-performance iOS applications used by millions of users. With 6+ years of professional experience, I specialize in building scalable mobile systems, optimizing runtime performance, and delivering resilient user experiences in production environments.
+
+My engineering work has contributed to consumer platforms exceeding 10M+ installs, where I focused on measurable improvements across speed, stability, authentication workflows, and engagement. I operate comfortably across the full development lifecycle from architecture decisions to release pipelines partnering with product, backend, and security teams to ship reliable mobile infrastructure at scale.
+
+Core Expertise:
+• Swift, SwiftUI, UIKit
+• Modular Architecture, MVVM, TCA, SOLID
+• Performance Engineering & Memory Optimization
+• SDK Development
+• Concurrency (GCD, async/await, Combine)
+• CI/CD, Testing, and Release Reliability
+
+Currently based in Berlin, contributing to identity and wallet platforms. I am particularly motivated by technically challenging environments where engineering quality and product scale intersect. Always open to connecting with recruiters, engineers, tech leaders, and teams building impactful mobile experiences.
+
 <br/> <br/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=farazahmed90&show_icons=true&theme=dracula)
